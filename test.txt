@@ -1,1 +1,3 @@
-How are you 
+System.out.print(5>10);
+String s1 = "chennai";
+System.out.print("State: "+s1);
